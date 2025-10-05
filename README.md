@@ -1,0 +1,1 @@
+Our project analyses daily stock data from 1999–2021 across NASDAQ, NYSE, S&P 500, and Forbes2000 to predict sector-level growth. Using Finnhub APIs, companies are mapped to sectors. Aggregated sector features like average return, volatility, and median growth are used to model and forecast which sectors grow fastest over time.
